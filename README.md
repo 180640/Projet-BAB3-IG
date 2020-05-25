@@ -163,4 +163,7 @@ Rappelez-vous que vous devez appuyer sur la tête de NAO pour chaque correction.
 Une fois la partie finie, NAO relance le menu de jeu. Vous pouvez alors jouer à nouveau au même jeu ou choisir le second jeu. Pour sortir du menu, appuyez sur la tête de NAO.
 
 
+Inspiré de https://github.com/larics/nao-xo
+
+
 
